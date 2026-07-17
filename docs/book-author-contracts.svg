@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <rect x="40" y="70" width="150" height="90" rx="10" fill="#2563eb"/>
+  <text x="115" y="110" font-family="Arial" font-size="24" text-anchor="middle" fill="white">Book</text>
+  <rect x="245" y="70" width="150" height="90" rx="10" fill="#16a34a"/>
+  <text x="320" y="110" font-family="Arial" font-size="24" text-anchor="middle" fill="white">Contract</text>
+  <rect x="450" y="70" width="150" height="90" rx="10" fill="#9333ea"/>
+  <text x="525" y="110" font-family="Arial" font-size="24" text-anchor="middle" fill="white">Author</text>
+  <line x1="190" y1="115" x2="245" y2="115" stroke="#334155" stroke-width="4"/>
+  <line x1="395" y1="115" x2="450" y2="115" stroke="#334155" stroke-width="4"/>
+  <text x="320" y="190" font-family="Arial" font-size="18" text-anchor="middle" fill="#334155">Many books ↔ many authors through contracts</text>
+</svg>
